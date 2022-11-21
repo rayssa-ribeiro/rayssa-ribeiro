@@ -7,7 +7,8 @@
 -  Instagram:@ribeiro_rayssa
 -  Face:Rayssa Ribeiro
 - 📫 Para me conhecer mais,Só me chamar nas redes sociais acima
-
+  
+  Moro em Maringá_pr
 <!---
 rayssa-ribeiro/rayssa-ribeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
