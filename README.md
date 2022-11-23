@@ -1,4 +1,6 @@
-- # Sobre mim
+- # Colégio Santa Maria Gorette
+ 1 ano C
+ # Sobre mim
 - 
 - 👋 Eu me chamo @rayssa-ribeiro
 -  Meu email é ribeirorayssa110@gmail.com
